@@ -17,6 +17,7 @@ npx tailwindcss -i ./src/app.css -o ./forms/css/app.css --watch
 
 - [Login Form 01 - Flowbite Example](tailwind-collections/login-forms/forms/login-page-01.html)
 - [Login Form 02 - Custom Simple Example](tailwind-collections/login-forms/forms/login-page-02.html)
+- [Login Form 03 - TailwindFlex R Thapa](tailwind-collections/login-forms/forms/login-page-03.html) - ctto [link here](https://tailwindflex.com/@r-thapa)
 
 ## Live Demo
 
